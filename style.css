@@ -1,0 +1,24 @@
+.map-container {
+    position: absolute;
+    z-index: 0;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 80%;
+    width: 100%;
+}
+
+.footer-fixed {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  max-width: 100%
+}
+
+.side-panel {
+  height: 100vh;
+  overflow-y: auto;
+}
